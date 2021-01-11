@@ -1,4 +1,4 @@
 # Master---IS-NLP
 Intelligent Systems course - Natural language processing
 
-Put all documents in the default directory, in a folder named "IS NLP".
+To run the code, put all documents in the default Rstudio directory, in a folder named "IS NLP".
